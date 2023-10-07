@@ -9,7 +9,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BradleyDaudi.svg?style=social&label=Followers)](https://github.com/BradleyDaudi?tab=followers)
 
-### Here's my github stats:
+### Here is my github stats:
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleyDaudi&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BradleyDaudi&theme=radical)](https://git.io/streak-stats) 
@@ -22,7 +22,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-#Databases I interact with
+#Databases I interact with on a dailt basis
 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 
