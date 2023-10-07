@@ -43,7 +43,7 @@
 
 ### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
 
-<a href="https://www.hackerrank.com/BradleyDaudi?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.hackerrank.com/Bradohardy?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <br>
 
 
