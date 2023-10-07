@@ -52,7 +52,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 
-### Some of my cool public repositories (not forks):
+### Some of my cool public repositories :
 
 <a href="https://github.com/BradleyDaudi/IBM-DATA-ANALYST-CAPSTONE-PROJECT">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
