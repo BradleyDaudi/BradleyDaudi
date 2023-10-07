@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Data is my lover
 
 
-https://github.com/BradleyDaudi/BradleyDaudi/assets/111533276/39acbc21-12bf-401e-b524-0ad1096cf67d
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
 
@@ -21,7 +20,7 @@ https://github.com/BradleyDaudi/BradleyDaudi/assets/111533276/39acbc21-12bf-401e
 
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleyDaudi&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 [![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
