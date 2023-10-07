@@ -19,7 +19,7 @@
 
 ### Languages I'm good at
 
-
+![SQL](https://img.shields.io/badgeSQL-14354C?style=for-the-badge&logo=SQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
