@@ -11,10 +11,9 @@
 
 ### Here is my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleyDaudi&show_icons=true&theme=radical) 
+![BradleyDaudi GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleyDaudi&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BradleyDaudi&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BradleyDaudi&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=BradleyDaudi)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages I'm good at
