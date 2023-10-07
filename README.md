@@ -1,14 +1,5 @@
-### Hi there 👋
+### Hello  there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on data scinece projects
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on data science projects
-- 💬 Ask me about how we can collaborate
-- 📫 How to reach me: [BradleyDaudi](https://github.com/BradleyDaudi)
-- ⚡ Fun fact: ... Data is my lover
 
 
 
@@ -37,15 +28,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.hackerrank.com/BradleyDaudi?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <br>
-
-
-
-### Open Source 
-
-<a href="https://github.com/BradleyDaudi/problem-tutorials">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=problem-tutorials&theme=onedark" />
-</a>  
 
 
 ### Learning 
