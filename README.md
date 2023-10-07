@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Bradley!;I'm+a+learning+datascientist...;CRAZY+fan+of+web3,+cloud;And+I'm+a+fun+person;looking+to+contribute;into+yourorganization,+freelancing+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Bradley!;I'm+a+learning+datascientist...;;And+I'm+a+fun+person;looking+to+contribute;into+yourorganization,+freelancing+projects)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/BradleyDaudi/count.svg">
 
