@@ -1,7 +1,6 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/cT5gKT412jHqw/giphy.gif" width="300"/>
 </div>
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Bradley!;I'm+a+learning+datascientist...;;And+I'm+a+fun+person;looking+to+contribute;into+yourorganization)](https://git.io/typing-svg)
