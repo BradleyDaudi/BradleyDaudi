@@ -2,10 +2,14 @@
   <img src="https://media.giphy.com/media/cT5gKT412jHqw/giphy.gif" width="300"/>
 </div>
 
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bradley-daudi-aa2ab564/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/_____Dau_____)  
-<br> <br>
+ <p align="center">
+ <a href="https://twitter.com/_____Dau_____">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/bradley-daudi-aa2ab564/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Bradley!;I'm+a+learning+datascientist...;;And+I'm+a+fun+person;looking+to+contribute;into+yourorganization)](https://git.io/typing-svg)
