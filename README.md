@@ -55,7 +55,7 @@
 <a href="https://www.hackerrank.com/Bradohardy?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <br>
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D8D12FBA8A082AC7BD593582E4FFDB276E881F5955F8BFC1EC7B4BF4A0C12216)?hr_r=1">![](https://img.shields.io/badge/Oracle-00FF64.svg?style=for-the-badge&logo=Oracle&logoColor=red)</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D8D12FBA8A082AC7BD593582E4FFDB276E881F5955F8BFC1EC7B4BF4A0C12216?hr_r=1">![](https://img.shields.io/badge/Oracle-00FF64.svg?style=for-the-badge&logo=Oracle&logoColor=red)</a>
 <br>
 
 
