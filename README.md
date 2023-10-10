@@ -14,9 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Bradley!;I'm+a+learning+datascientist...;;And+I'm+a+fun+person;looking+to+contribute;into+yourorganization)](https://git.io/typing-svg)
 
-### my articles:
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
 <img src="https://profile-counter.glitch.me/BradleyDaudi/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/BradleyDaudi.svg?style=social&label=Followers)](https://github.com/BradleyDaudi?tab=followers)
