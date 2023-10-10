@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cT5gKT412jHqw/giphy.gif" width="300"/>
 </div>
 
- <p align="center">
+ <p align="left">
  <a href="https://twitter.com/_____Dau_____">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
