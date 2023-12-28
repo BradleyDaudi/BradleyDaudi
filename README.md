@@ -69,7 +69,7 @@
 
 <a href="https://github.com/BradleyDaudi/SALES-DATA-ANALYSIS-MERISKILL-PROJECT-/blob/main/SALES%20DASHBOARD.pdf">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=IBM-DATA-ANALYST-CAPSTONE-PROJECT&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=SALES-DATA-ANALYSIS-MERISKILL-PROJECT-&theme=onedark" />
 </a>  
 
 
