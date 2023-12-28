@@ -12,7 +12,7 @@
  </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I+am+Bradley;I'm+a+Data+Analyst...;;And+I'm+looking+to+create;meaningful+insights;using+visualizations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I+am+Bradley;I'm+a+Data+Analyst...;;And+I'm+looking+to+create..;meaningful+insights...;using+visualizations)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/BradleyDaudi/count.svg">
 
