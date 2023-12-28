@@ -73,8 +73,8 @@
 </a>  
 
 
-### Thank you for visiting my profile 🤓 Here is a midjourney image of my everyday situation 
-[![]("https://github.com/BradleyDaudi/walleeva2018/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg"?raw=true)]
+### Thank you for visiting my profile 🤓 
+
 ### Feel free to come visit again!!
 
 
