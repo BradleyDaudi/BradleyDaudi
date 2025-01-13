@@ -89,7 +89,7 @@
 </a>  
 
 <a href="https://github.com/BradleyDaudi/Financial-Analytics/blob/main/Bank%20Dataset/Bank%20dashboard.pdf">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=Financial-Analytics
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=Financial-Analytics
 &theme=onedark" />
 </a>
 
