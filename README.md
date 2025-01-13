@@ -88,7 +88,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=SALES-DATA-ANALYSIS-MERISKILL-PROJECT-&theme=onedark" />
 </a>  
 
-<a href="Bank Dataset/Bank dashboard.pdf">
+<a href="https://github.com/BradleyDaudi/Financial-Analytics/tree/main/Bank%20Dataset">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=QUANTIUM-DATA-ANALYSIS&theme=onedark" />
 </a>
 
