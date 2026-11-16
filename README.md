@@ -61,14 +61,12 @@ I turn data into clear, useful insights through analysis, dashboards, and visual
 
 ## Featured projects
 
-<div align="center">
-  <a href="https://github.com/BradleyDaudi/Financial-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=Financial-Analytics&theme=onedark&hide_border=true" alt="Financial Analytics repository" />
-  </a>
-  <a href="https://github.com/BradleyDaudi/SALES-DATA-ANALYSIS-MERISKILL-PROJECT-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BradleyDaudi&repo=SALES-DATA-ANALYSIS-MERISKILL-PROJECT-&theme=onedark&hide_border=true" alt="Sales Data Analysis repository" />
-  </a>
-</div>
+These project links use GitHub-native Markdown instead of externally generated repository-card images, so the section remains visible even when a third-party card service is unavailable.
+
+| Project | What you'll find |
+|---|---|
+| **[Financial Analytics](https://github.com/BradleyDaudi/Financial-Analytics)** | Financial analysis project, including a [Bank Dashboard PDF](https://github.com/BradleyDaudi/Financial-Analytics/blob/main/Bank%20Dataset/Bank%20dashboard.pdf). |
+| **[Sales Data Analysis – MeriSkill](https://github.com/BradleyDaudi/SALES-DATA-ANALYSIS-MERISKILL-PROJECT-)** | Analysis of 2019 sales data, with a [Sales Dashboard PDF](https://github.com/BradleyDaudi/SALES-DATA-ANALYSIS-MERISKILL-PROJECT-/blob/main/SALES%20DASHBOARD.pdf). |
 
 ## Find me elsewhere
 
