@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="Animated data analyst profile GIF" />
+</div>
+
+<div align="center">
 
 # Hi, I'm Bradley Daudi 👋
 
@@ -51,13 +55,7 @@ I turn data into clear, useful insights through analysis, dashboards, and visual
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## GitHub statistics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BradleyDaudi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bradley's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyDaudi&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most used languages" />
-  <img width="70%" src="https://streak-stats.demolab.com?user=BradleyDaudi&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
 ## Featured projects
 
