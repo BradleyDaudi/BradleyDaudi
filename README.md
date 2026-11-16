@@ -61,7 +61,6 @@ I turn data into clear, useful insights through analysis, dashboards, and visual
 
 ## Featured projects
 
-These project links use GitHub-native Markdown instead of externally generated repository-card images, so the section remains visible even when a third-party card service is unavailable.
 
 | Project | What you'll find |
 |---|---|
